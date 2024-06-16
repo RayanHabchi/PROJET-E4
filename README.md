@@ -29,3 +29,5 @@ https://www.kaggle.com/datasets/andrewmvd/spotify-playlists/data?select=spotify_
 Librairie Spotify de recherche du plus proche voisin :
 https://engineering.atspotify.com/2023/10/introducing-voyager-spotifys-new-nearest-neighbor-search-library/?utm_medium=social&utm_source=linkedIn&utm_campaign=Voyager&utm_content=Evergreen
 
+Video aide API Spotify : 
+https://youtu.be/c5sWvP9h3s8?si=WWo60Gg53NNc_U99
